@@ -2,7 +2,6 @@
 
 - 📝 <strong>Currently learning TypeScript, React and Node.</strong>
 - 💻 <strong>IT Technician. (ETEC Adolpho Berezin, 2023-2024)</strong>
-- 👨‍💻 <strong>System Development Student. (FATEC, 2025 - ...)</strong>
 - 📫 <strong>Contact me in: voloks1@outlook.com</strong>
 </br>
 
