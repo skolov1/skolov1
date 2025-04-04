@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm @voloks1</h1>
+<h1>👋 Hi, I'm @skolov1</h1>
 
 - 📝 <strong>Currently learning TypeScript, React and Node.</strong>
 - 💻 <strong>IT Technician. (ETEC Adolpho Berezin, 2023-2024)</strong>
