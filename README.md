@@ -5,7 +5,7 @@
 - 📫 <strong>Contact me in: voloks1@outlook.com</strong>
 </br>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voloks1&theme=dark)](https://github.com/voloks1/github-readme-stats)
+[![Top Languages](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=voloks1&theme=dark)](https://github.com/voloks1/github-readme-stats)
 
 <hr>
 <p align="center">
